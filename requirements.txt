@@ -111,7 +111,7 @@ tokenizers==0.14.1
 tokentrim==0.1.13
 toml==0.10.2
 tornado==6.3.3
-tqdm==4.66.1
+tqdm==4.66.3
 traitlets==5.13.0
 typing-extensions==4.8.0
 urllib3==1.26.18
